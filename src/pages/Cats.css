@@ -1,0 +1,23 @@
+.wrapper {
+    padding: 15px;
+}
+
+.wrapper__title {
+    text-transform: lowercase;
+}
+
+.items {
+    display: flex;
+    align-items: center
+}
+
+.items__img {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 15px;
+}
+
+.items__name {
+    padding-left: 20px;
+}
+
