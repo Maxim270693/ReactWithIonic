@@ -1,5 +1,5 @@
 {
-  "name": "ReactIonic",
+  "name": "app",
   "integrations": {
     "capacitor": {}
   },
